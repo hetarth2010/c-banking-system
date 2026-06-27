@@ -41,8 +41,8 @@ This project successfully fulfills the **four fundamental pillars of OOP** as ou
     *   `withdraw(amount)` — *Overridden* to allow overdraft spending limits safely.
     *   `displayAccountInfo()` — *Overridden* to display checking details along with available overdraft capacity.
 
----<img width="523" height="305" alt="Screenshot 2026-06-27 132758" src="https://github.com/user-attachments/assets/5f97fe0f-c131-4c2a-93d6-f7c757491df4" />
-<img width="523" height="305" alt="Screenshot 2026-06-27 132758" src="https://github.com/user-attachments/assets/c3a0dbe2-e098-457a-884c-c1966c173739" />
+---
+
 
 
 ## 🚀 How To Compile and Run
@@ -68,5 +68,5 @@ Ensure you have a standard C++ compiler installed (such as GCC/G++).
 ---
 
 ## 📸 Output Screenshots
-
+<img width="523" height="305" alt="Screenshot 2026-06-27 132758" src="https://github.com/user-attachments/assets/c3a0dbe2-e098-457a-884c-c1966c173739" />
 
